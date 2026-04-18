@@ -11,10 +11,6 @@
 > 비전공자 출신으로 열심히 성장 중인 Spring 개발자 지망생이에요 🔥  
 > 매일 TIL 쓰면서 조금씩 나아가고 있답니다 🐾
 
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamdongyeob&count_bg=%23FFB7C5&title_bg=%23555555&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 ---
@@ -78,9 +74,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namdongyeob&show_icons=true&theme=dracula&hide_border=true&bg_color=fff0f5&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namdongyeob&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdongyeob&layout=compact&theme=dracula&hide_border=true&bg_color=fff0f5&title_color=ff6b9d&text_color=555555)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdongyeob&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff6b9d&text_color=555555)
 
 </div>
 
