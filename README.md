@@ -57,7 +57,6 @@
 - ✅ JPA & 연관관계 매핑
 - ✅ Cookie/Session 인증
 - 🔜 JWT & Spring Security
-- 🔜 팀 프로젝트 (이커머스 백오피스)
 
 ---
 
